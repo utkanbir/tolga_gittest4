@@ -8,5 +8,6 @@ public class TolgaGittest4Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TolgaGittest4Application.class, args);
+		System.out.println("aaa");
 	}
 }
